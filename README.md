@@ -1,8 +1,8 @@
 # AI Machine Learning models
 
-Hello World! It is my first repository, so I encourage you to share your thoughts, and comments.
-
-I hope you find  something interesting for you as well in the topics below.
+Hello World! 
+This is my first repository.
+I hope you find something interesting for you as well in the topics below.
 
 
 ## Table of contents
@@ -18,6 +18,4 @@ I hope you find  something interesting for you as well in the topics below.
 ---
 ### NOTE
 
-I'd like to mention that the models have been crated in Jupiter Notebook in Azure Machine Learning Studio mainly in Python3.10 - AzureML Karnel.
-
-For deep learning models I used Python3.10 - Pytorch and Tensorflow Karnel, and cleared output from most computational expensive for the cost-saving reasons.
+Models have been created in Jupiter Notebook Python3.10 - AzureML Karnel in Azure Machine Learning Studio. 
